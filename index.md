@@ -4,7 +4,7 @@ title: Page of Marie-Eva Fabri
 
 * Email: marie-eva DOT fabri AT univ-lille DOT fr
 * Current position: PhD Student at [Université de Lille](https://univ-lille.fr/) with [Patrick Baillot](https://pro.univ-lille.fr/patrick-baillot/), [Sara Riva](https://sarariva.github.io) and [Cristian Versari](https://www.cristal.univ-lille.fr/~versaric/). 
-* [CV](pdfs/cv.pdf)
+* [CV](pdf/CV.pdf)
 
 # PhD subject
 
