@@ -32,6 +32,12 @@ $endif$
         $if(date-meta)$
         <meta name="date" content="$date-meta$" />
         $endif$
+        $if(keywords-meta)$
+        <meta name="keywords" content="$keywords-meta$" />
+        $endif$
+        $if(description-meta)$
+        <meta name="description" content="$description-meta$" />
+        $endif$
         <title>$if(title-prefix)$$title-prefix$ - $endif$$pagetitle$</title>
         <style type="text/css">code{white-space: pre;}</style>
         $if(quotes)$

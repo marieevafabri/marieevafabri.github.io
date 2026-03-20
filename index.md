@@ -1,6 +1,11 @@
 ---
 title: Page of Marie-Eva Fabri
-...
+author-meta: Marie-Eva Fabri
+date-meta: 2026-03-20
+keywords-meta: université,lille,marie-eva,fabri,informatique,computer science,theory,phd,doctorante,reaction networks,boolean networks
+description-meta: Computer Science PhD candidate @ University of Lille - CRIStAL SyCoMoRES
+---
+
 <img src="pdf/photo_iden.jpg" style="width:180px; margin-right; float:right;" alt="ID">
 
 * Email: marie-eva DOT fabri AT univ-lille DOT fr
